@@ -1,0 +1,29 @@
+.tracker {
+  height: 100%;
+  padding-top: 3.2rem;
+}
+.tracker__box {
+  padding: 1.6rem;
+  border: 0.5px solid #999;
+  border-radius: 6px;
+}
+.tracker__heading {
+  font-size: 2.4rem;
+  margin-bottom: 1.6rem;
+}
+.tracker__formgroup label {
+  display: block;
+  font-size: 1.6rem;
+  margin-bottom: 0.4rem;
+}
+.tracker__formgroup {
+  margin-bottom: 2.4rem;
+}
+.tracker__input {
+  font-size: 1.6rem;
+  padding: 0.8rem 1.6rem;
+  width: 100%;
+  border-radius: 6px;
+  outline: none;
+  border: 0.5px solid #999;
+}
